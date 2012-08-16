@@ -1,0 +1,21 @@
+label {
+  width: 4em;
+  float: left;
+  text-align: right;
+  margin-right: 0.5em;
+  display: block
+}
+
+input {
+  width: 150px;
+  border: 1px solid #006;
+  background: #ffc;
+  margin-left: 1em;
+}
+
+button {
+  border: 1px solid #006;
+  background: #9cf;
+  margin-left: 5em;
+}
+
